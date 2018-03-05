@@ -15,7 +15,7 @@
 
   # Javascript
 
-  ```
+  ```javascript
 
   const myInventoryList = {
   inventoryList: [
